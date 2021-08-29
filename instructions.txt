@@ -1,0 +1,13 @@
+The exam will start at the specified time sharply and will conclude at specified time sharply. You can go through the instructions. 
+You will be permitted to login between the specified timings. The login screen will be appearing after the instructions screen.
+The clock has been set at server and count down timer at the top left corner of the screen will display left out time to closure from where you can monitor time you have to complete the exam.
+There will be four buttons on each screen, the use of buttons is given below: 
+RESET : Can be used to deselect a selected answer.
+SAVE : Save the selected answer.
+NEXT : Proceed to the next question.
+Click one of the answer option buttons to select your answer
+To change an answer, simply click the desired option button
+To deselect a chosen answer, click the RESET button
+To save the answer before moving to the next question, click on SAVE.
+To go to a question, click on the question number on the below of the screen.<span style="color:darkred:font-size:12px" class="glyphicon glyphicon-remove"></span>.
+The marks for correct and incorrect answer are listed above in the table. 0 marks would be awarded for the questions that are "not marked" (having "red" status).
